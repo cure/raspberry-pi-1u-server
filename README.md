@@ -73,7 +73,7 @@ Total cost: `~$800`
 ### Storage
 * 5x $34.99 - [Kingston A400 240G Internal SSD M.2](https://www.amazon.com/gp/product/B07P22RK1G?th=1)
     * Need to use M.2 drives to save space.
-    * SSDs are more also usually more durable and faster than USB drives and SD cards.
+    * SSDs are usually more durable and faster than USB drives and SD cards.
 * 1x $31.50 - [5-Pack of SAMSUNG 32GB Evo Plus Micro SD Cards](https://www.amazon.com/Samsung-Class-Micro-Adapter-MB-MC32GA/dp/B07NP96DX5/ref=mp_s_a_1_4?dchild=1&keywords=5+pack+evo+sd&qid=1624215476&sr=8-4)
     * For failover storage in case the SSD fails.
 
